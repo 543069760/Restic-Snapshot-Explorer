@@ -1,7 +1,3 @@
-下面是一份**标准、完整、可直接使用的 `README.md`** 示例，基于你提供的项目信息整理而成，结构符合常见开源前端项目规范，语言为中文，可直接替换当前 Vite 默认 README。
-
----
-
 # Restic Snapshot Explorer
 
 Restic Snapshot Explorer 是一个基于 **React + TypeScript + Vite** 构建的 Web 应用，用于以可视化方式浏览和管理 **Restic** 备份仓库中的快照数据。
