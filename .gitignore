@@ -1,0 +1,67 @@
+# 依赖目录
+node_modules/
+pnpm-lock.yaml
+yarn.lock
+
+# 构建输出
+dist/
+dist-ssr/
+*.local
+
+# 环境变量
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 日志文件
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# 操作系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 编辑器文件
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.vscode/*.code-workspace
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# 系统缓存
+.cache/
+*.tmp
+*.temp
+
+# 测试覆盖率
+coverage/
+.nyc_output
+
+# 生产构建缓存
+.eslintcache
+
+# 可选
+# 如果你使用 pnpm
+.pnpm-store/
+
+# 可选的隐藏文件
+.gitattributes
+.gitkeep
